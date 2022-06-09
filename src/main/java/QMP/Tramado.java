@@ -1,0 +1,5 @@
+package QMP;
+
+enum Tramado{
+  CUADROS, LISA, ESTAMPADO, RAYADA, LUNARES
+}
